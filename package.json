@@ -1,7 +1,7 @@
 {
   "name": "backbone-view-manager",
   "description": "Manage Backbone View to prevent zombie view and reuse existing view.\n NPM package of the following javascript: https://github.com/thomasdao/Backbone-View-Manager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/morriswchris/npm-backbone-view-manager",
   "keywords": [
     "backbone-view-manager",
